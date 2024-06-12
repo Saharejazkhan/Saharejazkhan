@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saharejazkhan
 - 👀 I’m interested in data analysis, content creation and web development.
 - 🌱 I’m currently learning data analysis.
-- 💞️ I’m looking to collaborate on projects based on my profile.
+- ⚡I’m looking to collaborate on projects based on my profile.
 - 📫 Inbox me if you want to collab
 - 😄 she/her
 - ⚡ Fun fact: I'm a “Wanderlust Foodie” and always eager to explore, and learn something new!
