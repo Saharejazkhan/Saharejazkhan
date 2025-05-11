@@ -4,10 +4,15 @@
 A passionate Data Analyst || Business Intelligence Analyst || Data Visualization Analyst || Data Storyteller
 
 🔭 I’m currently working on: Data Analysis & Artificial Intelligence.
+
 🌱 I’m currently learning: More about AI.
+
 👯 I’m looking to collaborate on: Anything based on Data. 
-💬 Ask me about: Collaboration, Tech Support
+
+💬 Ask me about: Collaboration, Tech Support.
+
 📫 How to reach me: lifewithsahar@gmail.com 
+
 ⚡ Fun fact: I'm always eager to explore, travel and learn something new!
 
 ## 🌐 Socials:
