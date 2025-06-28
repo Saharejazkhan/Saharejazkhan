@@ -27,7 +27,7 @@ A passionate Data Analyst || Business Intelligence Analyst || Data Visualization
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Saharejazkhan&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=Saharejazkhan&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saharejazkhan&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
