@@ -26,13 +26,9 @@ A passionate Data Analyst || Business Intelligence Analyst || Data Visualization
 🌿 "You were born with wings. Why prefer to crawl through life...?"
 
 
-# 📊 GitHub Stats:
-
-![](https://nirzak-streak-stats.vercel.app/?user=Saharejazkhan&theme=ambient_gradient&hide_border=false)<br/>
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Saharejazkhan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Saharejazkhan&icon=0&color=0)](https://visitcount.itsvg.in)
